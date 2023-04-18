@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "178667088783",
+    "project_id": "urukutdev",
+    "storage_bucket": "urukutdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178667088783:android:c9eb43a1b58f45fbadf9fa",
+        "android_client_info": {
+          "package_name": "com.urukut.urukutdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178667088783-rk5h7hqhjhjtc6cqge8rbrm3vv5mflbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGWlH1F29uisC8Zy6MV7sJ09ZxDkKIVGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178667088783-nqfrkg1alesjn5o38f0aeqervsp6nv1g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "178667088783-0rkkhsb9q86tggtb47th800q3jek0qag.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.urukut.urukutdev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178667088783:android:92a292160b97ff5aadf9fa",
+        "android_client_info": {
+          "package_name": "urukut.urukut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178667088783-rk5h7hqhjhjtc6cqge8rbrm3vv5mflbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGWlH1F29uisC8Zy6MV7sJ09ZxDkKIVGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178667088783-nqfrkg1alesjn5o38f0aeqervsp6nv1g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "178667088783-0rkkhsb9q86tggtb47th800q3jek0qag.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.urukut.urukutdev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
